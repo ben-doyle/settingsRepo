@@ -1,0 +1,402 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/programming/ewe-link-service/src/test/java/com/expedia/com/builders/impl/DestinationExperienceLinkBuilderTest.java" timestamp="1514425932714">
+        <mark key="[" line="35" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/alexa-app-server/server.js" timestamp="1518151941464">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/expedia-flights-alexa/.primer/deployment.json" timestamp="1518147634544" />
+      <file name="$USER_HOME$/Documents/programming/expedia-flights-alexa/routes/expediaFlights.js" timestamp="1518155439427">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1515628744725">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/resources/application.yml" timestamp="1517977944792">
+        <mark key="[" line="75" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/alexa-app-server/examples/apps/expedia-flights/index.js" timestamp="1518141668869">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="30" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/resources/bootstrap.yml" timestamp="1517268503553">
+        <mark key="[" line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/disco-travel/core/src/test/resources/fixtures/response/SIMILAR_DESTINATION_ResponseValidator.json" timestamp="1515376714486">
+        <mark key="[" line="64" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/disco-travel/core/src/main/java/com/expedia/www/discotravel/repository/neighborhood/brisbane" timestamp="1515633943026">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/expedia-flights-alexa/app/expedia-flights/index.js" timestamp="1518146776299">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/compass-voice-questions/.primer/infrastructure.json" timestamp="1518159190869">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/compass-voice-questions/app.js" timestamp="1518236310916">
+        <mark key="[" line="124" column="14" />
+        <mark key="]" line="98" column="94" />
+        <mark key="." line="98" column="94" />
+        <mark key="^" line="98" column="94" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" timestamp="1515046579772">
+        <mark key="[" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/resources/log4j2-spring.xml" timestamp="1517978806885">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/test/functional/te-knownfor.js" timestamp="1516847309809">
+        <mark key="[" line="43" column="89" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/disco-travel/api/src/main/java/com/expedia/www/discotravel/domain/NeighborhoodModule.java" timestamp="1517550033608">
+        <mark key="[" line="24" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/alexa-poc/flightDetails.py" timestamp="1518090613822">
+        <mark key="[" line="89" column="24" />
+        <mark key="]" line="89" column="24" />
+        <mark key="." line="89" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/test/functional/affinity-article.js" timestamp="1517536229044">
+        <mark key="[" line="13" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/test/visual/affinity-article/affinity-article.js" timestamp="1517794693935">
+        <mark key="[" line="24" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/test/functional/smartCrop.js" timestamp="1516753860439">
+        <mark key="[" line="17" column="89" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/expedia-flights-alexa/app.js" timestamp="1518155480889" />
+      <file name="$USER_HOME$/Documents/programming/flex-sdk/flex-web-api/pom.xml" timestamp="1514520185768">
+        <mark key="[" line="13" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/te-similar-destination-flex-module/src/main/resources/application.yml" timestamp="1515624998937">
+        <mark key="[" line="52" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/java/com/expedia/www/gaspar/flex/web/configuration/ApplicationConfig.java" timestamp="1517982772755">
+        <mark key="[" line="84" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/java/com/expedia/www/gaspar/flex/web/resolver/GasparResolver.java" timestamp="1517983325805">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="8" />
+        <mark key="." line="53" column="8" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1518147640016">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/compass-voice-questions/expedia-flights-helper.js" timestamp="1518236332884">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="4" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/views/modules/te-expert-tip/te-expert-tip-view-default.less" timestamp="1516676520606">
+        <mark key="[" line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/package.json" timestamp="1514873121352">
+        <mark key="[" line="10" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/compass-voice-poc-ben/.gitignore" timestamp="1518059886620">
+        <mark key="[" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/views/modules/te-article/article.jsp" timestamp="1516676650607">
+        <mark key="[" line="14" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/alexa-app-server/.gitignore" timestamp="1518147451793">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="17" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/hopscotch-star/base/conf/routing-gaspar-flex-web/www.expedia.com.txt" timestamp="1513751175442">
+        <mark key="[" line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/te-neighborhood-flex-module/pom.xml" timestamp="1517809752858">
+        <mark key="[" line="38" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/alexa-poc/index2.js" timestamp="1518095811405">
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="59" column="26" />
+        <mark key="." line="59" column="26" />
+        <mark key="^" line="30" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/disco-travel/core/src/main/java/com/expedia/www/discotravel/repository/neighborhood/montreal" timestamp="1515633958148">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/ewe-link-service/src/test/java/com/expedia/com/builders/impl/DestinationDiscoveryLinkBuilderTest.java" timestamp="1514424811060">
+        <mark key="[" line="32" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/disco-travel/core/src/main/java/com/expedia/www/discotravel/io/tcs/TravelContentService.java" timestamp="1517811422004">
+        <mark key="[" line="117" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/te-thingtodo-flex-module/pom.xml" timestamp="1516664376939">
+        <mark key="[" line="51" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/hopscotch-star/base/conf/routing-gaspar-flex-web/www.expedia.ca.txt" timestamp="1513567593323">
+        <mark key="[" line="12" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/views/modules/te-point-of-interest/te-point-of-interest-default.jsp" timestamp="1516854471557">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/ewe-link-service/src/main/java/com/expedia/www/link/services/build/request/item/DestinationDiscoveryLinkRequestItem.java" timestamp="1514509549567">
+        <mark key="[" line="19" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/te-back-banner-flex-module/src/main/java/com/expedia/www/te/back/banner/init/InitSupport.java" timestamp="1515044600877">
+        <mark key="[" line="28" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/compass-voice-questions/.eslintrc.json" timestamp="1518226091992">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1518153693534">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/views/modules/te-knownfor/te-knownfor.jsp" timestamp="1517455851992">
+        <mark key="[" line="32" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/disco-travel/core/src/test/groovy/com/expedia/www/discotravel/repository/similardestination/SimilarDestinationAdpaterSpec.groovy" timestamp="1515132711893">
+        <mark key="[" line="34" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/views/modules/affinity-top-destinations/affinity-top-destinations.jsp" timestamp="1517545412217">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/expedia-flights-alexa/apps/expedia-flights/index.js" timestamp="1518153262848" />
+      <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/test/functional/te-thingtodo.js" timestamp="1516846282830">
+        <mark key="[" line="45" column="89" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/alexa-app-server/examples/apps/expedia-flights/expedia-flights-helper.js" timestamp="1518141859749">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/alexa-poc/index.js" timestamp="1518129379834">
+        <mark key="[" line="95" column="34" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="111" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/disco-travel/core/src/test/groovy/com/expedia/www/discotravel/repository/RepositorySpec.groovy" timestamp="1515133507030">
+        <mark key="[" line="242" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/alexa-app-server/apps/expedia-flights/package-lock.json" timestamp="1518146071880">
+        <mark key="[" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/alexa-app-server/apps/expedia-flights/package.json" timestamp="1518146088774">
+        <mark key="[" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/alexa-app-server/index.js" timestamp="1518145309350">
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="." line="240" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/alexa-app-server/README.md" timestamp="1518150108437">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/alexa-app-server/apps/expedia-flights/index.js" timestamp="1518158126283" />
+    </filemarks>
+    <jumps>
+      <jump line="70" column="33" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="128" column="37" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="129" column="28" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="130" column="27" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="22" column="20" filename="$USER_HOME$/Documents/programming/disco-travel/core/pom.xml" />
+      <jump line="104" column="52" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="103" column="57" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="98" column="41" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="15" column="16" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="127" column="23" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="115" column="24" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="139" column="40" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="183" column="32" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="184" column="31" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="54" column="6" filename="$USER_HOME$/Documents/programming/disco-travel/core/pom.xml" />
+      <jump line="60" column="36" filename="$USER_HOME$/Documents/programming/disco-travel/core/pom.xml" />
+      <jump line="94" column="24" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="97" column="41" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="19" column="50" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="20" column="30" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="167" column="27" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="168" column="18" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="169" column="17" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="51" column="46" filename="$USER_HOME$/Documents/programming/disco-travel/core/pom.xml" />
+      <jump line="75" column="39" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="47" column="45" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="69" column="46" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="419" column="49" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="420" column="36" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="421" column="35" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="453" column="49" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="454" column="36" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="455" column="35" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="659" column="16" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="665" column="24" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="681" column="24" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="133" column="31" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="641" column="29" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="157" column="48" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="10" column="40" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="437" column="21" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="43" column="65" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
+      <jump line="385" column="13" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="534" column="21" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="48" column="42" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="50" column="15" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="58" column="22" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="72" column="19" filename="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" />
+      <jump line="83" column="52" filename="$USER_HOME$/Documents/programming/disco-travel/core/src/main/java/com/expedia/www/discotravel/repository/knownfor/KnownForAdapter.java" />
+      <jump line="35" column="48" filename="$USER_HOME$/Documents/programming/disco-travel/core/src/main/java/com/expedia/www/discotravel/repository/LinkBuilder.java" />
+      <jump line="61" column="33" filename="$USER_HOME$/Documents/programming/disco-travel/core/src/test/groovy/com/expedia/www/discotravel/repository/ReferrerIdSpec.groovy" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="220" column="32" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="194" column="19" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="202" column="38" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="104" column="37" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="115" column="12" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="118" column="27" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="125" column="27" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="132" column="27" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="39" column="36" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="414" column="25" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="415" column="34" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="419" column="25" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="428" column="24" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="411" column="30" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="826" column="42" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="40" column="39" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="124" column="46" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="379" column="19" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="423" column="34" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="427" column="25" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="20" column="108" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/java/com/expedia/www/gaspar/flex/web/renderer/GasparRenderer.java" />
+      <jump line="59" column="36" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="106" column="28" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="113" column="28" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="120" column="28" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="108" column="36" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="85" column="220" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/java/com/expedia/www/gaspar/flex/web/resolver/GasparResolver.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="51" column="34" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="54" column="45" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="139" column="25" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="140" column="24" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="141" column="23" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="147" column="34" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="152" column="25" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="8" column="12" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="374" column="47" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="442" column="69" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="558" column="54" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="561" column="51" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="671" column="58" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="367" column="47" filename="$USER_HOME$/Documents/programming/universal-curation-service/pom.xml" />
+      <jump line="35" column="29" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/views/modules/te-hero-image/te-hero-image.jsp" />
+      <jump line="109" column="58" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="206" column="24" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="207" column="23" filename="$USER_HOME$/Documents/programming/gaspar-flex-web/pom.xml" />
+      <jump line="53" column="51" filename="$USER_HOME$/Documents/programming/disco-travel/core/src/main/java/com/expedia/www/discotravel/repository/neighborhood/NeighborhoodAdapter.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>html</text>
+      </register>
+      <register name="d" type="4">
+        <text>appName</text>
+      </register>
+      <register name="-" type="4">
+        <text>html</text>
+      </register>
+      <register name="/" type="4">
+        <text>disco</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uZXhwZWRpYS53d3cucGxhdGZvcm08L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGxhdGZvcm0td2VibXZjLWFuYWx5dGljczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4K</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHZhciB3ZWF0aGVyID0gXy50ZW1wbGF0ZSgnVGhlIGN1cnJlbnQgd2VhdGhlciBjb25kaXRpb25zIGFyZSAke3dlYXRoZXJ9LCAke3RlbXB9IGFuZCB3aW5kICR7d2luZH0uJykoewogICAgICAgIHdlYXRoZXI6IGFpcnBvcnRTdGF0dXMud2VhdGhlci53ZWF0aGVyLAogICAgICAgIHRlbXA6IGFpcnBvcnRTdGF0dXMud2VhdGhlci50ZW1wLAogICAgICAgIHdpbmQ6IGFpcnBvcnRTdGF0dXMud2VhdGhlci53aW5kCiAgICB9KTsKICAgIGlmIChhaXJwb3J0U3RhdHVzLmRlbGF5ID09PSAndHJ1ZScpIHsKICAgICAgICB2YXIgdGVtcGxhdGUgPSBfLnRlbXBsYXRlKCdUaGVyZSBpcyBjdXJyZW50bHkgYSBkZWxheSBmb3IgJHthaXJwb3J0fS4gJyArCiAgICAgICAgICAgICdUaGUgYXZlcmFnZSBkZWxheSB0aW1lIGlzICR7ZGVsYXlfdGltZX0uICcgKwogICAgICAgICAgICAnRGVsYXkgaXMgYmVjYXVzZSBvZiB0aGUgZm9sbG93aW5nOiAke2RlbGF5X3JlYXNvbn0uICR7d2VhdGhlcn0nKTsKICAgICAgICByZXR1cm4gdGVtcGxhdGUoewogICAgICAgICAgICBhaXJwb3J0OiBhaXJwb3J0U3RhdHVzLm5hbWUsCiAgICAgICAgICAgIGRlbGF5X3RpbWU6IGFpcnBvcnRTdGF0dXMuc3RhdHVzLmF2Z0RlbGF5LAogICAgICAgICAgICBkZWxheV9yZWFzb246IGFpcnBvcnRTdGF0dXMuc3RhdHVzLnJlYXNvbiwKICAgICAgICAgICAgd2VhdGhlcjogd2VhdGhlcgogICAgICAgIH0pOwogICAgfSAKICAgICAgICAvL25vIGRlbGF5CiAgICAgICAgcmV0dXJuIF8udGVtcGxhdGUoJ1RoZXJlIGlzIGN1cnJlbnRseSBubyBkZWxheSBhdCAke2FpcnBvcnR9LiAke3dlYXRoZXJ9JykoewogICAgICAgICAgICBhaXJwb3J0OiBhaXJwb3J0U3RhdHVzLm5hbWUsCiAgICAgICAgICAgIHdlYXRoZXI6IHdlYXRoZXIKICAgICAgICB9KTs=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICApOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICByZXR1cm4gdGhpcy5nZXRBaXJwb3J0U3RhdHVzKCkudGhlbihmdW5jdGlvbiAocmVzcG9uc2UpIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBycDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">RmxpZ2h0c0hlbHBlci5wcm90b3R5cGUuZ2V0QWlycG9ydFN0YXR1cyA9IGZ1bmN0aW9uICgpIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgJCA9IGNoZWVyaW8ubG9hZChodG1sKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>disco</last-search>
+      <last-offset />
+      <last-pattern>disco</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>flex-web-api</entry>
+        <entry>spring-boot</entry>
+        <entry>ewe-link</entry>
+        <entry>link</entry>
+        <entry>flex-web</entry>
+        <entry>BOM</entry>
+        <entry>sdk</entry>
+        <entry>flex.sdk.version</entry>
+        <entry>bom.version</entry>
+        <entry>scala</entry>
+        <entry>scala.version</entry>
+        <entry>platform-bom-webmvc</entry>
+        <entry>platform-presentation-spring</entry>
+        <entry>platform-bom</entry>
+        <entry>platform-spring-vault</entry>
+        <entry>focal</entry>
+        <entry>scalatest</entry>
+        <entry>directory</entry>
+        <entry>pageId</entry>
+        <entry>disco</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
