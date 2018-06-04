@@ -82,6 +82,12 @@
       <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/test/functional/smartCrop.js" timestamp="1516753860439">
         <mark key="[" line="17" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/programming/compass-voice-questions/resources/config.json" timestamp="1528089836543">
+        <mark key="[" line="358" column="0" />
+        <mark key="]" line="511" column="36" />
+        <mark key="." line="511" column="36" />
+        <mark key="^" line="511" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/programming/flex-sdk/flex-web-api/pom.xml" timestamp="1514520185768">
         <mark key="[" line="13" column="41" />
       </file>
@@ -311,14 +317,14 @@
       <jump line="53" column="51" filename="$USER_HOME$/Documents/programming/disco-travel/core/src/main/java/com/expedia/www/discotravel/repository/neighborhood/NeighborhoodAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>record&quot;,&quot;lp&quot;,&quot;cd</text>
       </register>
       <register name="d" type="4">
         <text>appName</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>record&quot;,&quot;lp&quot;,&quot;cd</text>
       </register>
       <register name="/" type="4">
         <text>disco</text>
@@ -354,7 +360,7 @@
         <text encoding="base64">ICAgICAgY29uc3QgJCA9IGNoZWVyaW8ubG9hZChodG1sKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>359</text>
       </register>
     </registers>
     <search>
@@ -389,6 +395,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>359</entry>
       </history-cmd>
       <history-expr />
       <history-input />
