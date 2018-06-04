@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/programming/ewe-link-service/src/test/java/com/expedia/com/builders/impl/DestinationExperienceLinkBuilderTest.java" timestamp="1514425932714">
@@ -11,7 +11,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/expedia-flights-alexa/.primer/deployment.json" timestamp="1518147634544" />
       <file name="$USER_HOME$/Documents/programming/expedia-flights-alexa/routes/expediaFlights.js" timestamp="1518155439427">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,6 +68,11 @@
         <mark key="]" line="89" column="24" />
         <mark key="." line="89" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/programming/modernAPI/index.js" timestamp="1528084590279">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/test/functional/affinity-article.js" timestamp="1517536229044">
         <mark key="[" line="13" column="33" />
       </file>
@@ -78,7 +82,6 @@
       <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/test/functional/smartCrop.js" timestamp="1516753860439">
         <mark key="[" line="17" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/expedia-flights-alexa/app.js" timestamp="1518155480889" />
       <file name="$USER_HOME$/Documents/programming/flex-sdk/flex-web-api/pom.xml" timestamp="1514520185768">
         <mark key="[" line="13" column="41" />
       </file>
@@ -173,7 +176,6 @@
       <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/views/modules/affinity-top-destinations/affinity-top-destinations.jsp" timestamp="1517545412217">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/expedia-flights-alexa/apps/expedia-flights/index.js" timestamp="1518153262848" />
       <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/test/functional/te-thingtodo.js" timestamp="1516846282830">
         <mark key="[" line="45" column="89" />
       </file>
@@ -205,7 +207,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/alexa-app-server/apps/expedia-flights/index.js" timestamp="1518158126283" />
     </filemarks>
     <jumps>
       <jump line="70" column="33" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
@@ -310,14 +311,14 @@
       <jump line="53" column="51" filename="$USER_HOME$/Documents/programming/disco-travel/core/src/main/java/com/expedia/www/discotravel/repository/neighborhood/NeighborhoodAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>html</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>appName</text>
       </register>
       <register name="-" type="4">
-        <text>html</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>disco</text>
@@ -325,32 +326,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uZXhwZWRpYS53d3cucGxhdGZvcm08L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGxhdGZvcm0td2VibXZjLWFuYWx5dGljczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgIHZhciB3ZWF0aGVyID0gXy50ZW1wbGF0ZSgnVGhlIGN1cnJlbnQgd2VhdGhlciBjb25kaXRpb25zIGFyZSAke3dlYXRoZXJ9LCAke3RlbXB9IGFuZCB3aW5kICR7d2luZH0uJykoewogICAgICAgIHdlYXRoZXI6IGFpcnBvcnRTdGF0dXMud2VhdGhlci53ZWF0aGVyLAogICAgICAgIHRlbXA6IGFpcnBvcnRTdGF0dXMud2VhdGhlci50ZW1wLAogICAgICAgIHdpbmQ6IGFpcnBvcnRTdGF0dXMud2VhdGhlci53aW5kCiAgICB9KTsKICAgIGlmIChhaXJwb3J0U3RhdHVzLmRlbGF5ID09PSAndHJ1ZScpIHsKICAgICAgICB2YXIgdGVtcGxhdGUgPSBfLnRlbXBsYXRlKCdUaGVyZSBpcyBjdXJyZW50bHkgYSBkZWxheSBmb3IgJHthaXJwb3J0fS4gJyArCiAgICAgICAgICAgICdUaGUgYXZlcmFnZSBkZWxheSB0aW1lIGlzICR7ZGVsYXlfdGltZX0uICcgKwogICAgICAgICAgICAnRGVsYXkgaXMgYmVjYXVzZSBvZiB0aGUgZm9sbG93aW5nOiAke2RlbGF5X3JlYXNvbn0uICR7d2VhdGhlcn0nKTsKICAgICAgICByZXR1cm4gdGVtcGxhdGUoewogICAgICAgICAgICBhaXJwb3J0OiBhaXJwb3J0U3RhdHVzLm5hbWUsCiAgICAgICAgICAgIGRlbGF5X3RpbWU6IGFpcnBvcnRTdGF0dXMuc3RhdHVzLmF2Z0RlbGF5LAogICAgICAgICAgICBkZWxheV9yZWFzb246IGFpcnBvcnRTdGF0dXMuc3RhdHVzLnJlYXNvbiwKICAgICAgICAgICAgd2VhdGhlcjogd2VhdGhlcgogICAgICAgIH0pOwogICAgfSAKICAgICAgICAvL25vIGRlbGF5CiAgICAgICAgcmV0dXJuIF8udGVtcGxhdGUoJ1RoZXJlIGlzIGN1cnJlbnRseSBubyBkZWxheSBhdCAke2FpcnBvcnR9LiAke3dlYXRoZXJ9JykoewogICAgICAgICAgICBhaXJwb3J0OiBhaXJwb3J0U3RhdHVzLm5hbWUsCiAgICAgICAgICAgIHdlYXRoZXI6IHdlYXRoZXIKICAgICAgICB9KTs=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICApOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICByZXR1cm4gdGhpcy5nZXRBaXJwb3J0U3RhdHVzKCkudGhlbihmdW5jdGlvbiAocmVzcG9uc2UpIHsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">fTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiBycDsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">RmxpZ2h0c0hlbHBlci5wcm90b3R5cGUuZ2V0QWlycG9ydFN0YXR1cyA9IGZ1bmN0aW9uICgpIHsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgJCA9IGNoZWVyaW8ubG9hZChodG1sKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -383,7 +387,9 @@
         <entry>pageId</entry>
         <entry>disco</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
