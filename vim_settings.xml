@@ -66,7 +66,7 @@
       <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/test/functional/te-knownfor.js" timestamp="1516847309809">
         <mark key="[" line="43" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/compass-voice-questions/services/query-builders/nautilus-query-builders.js" timestamp="1528409918156" />
+      <file name="$USER_HOME$/Documents/programming/compass-voice-questions/services/query-builders/nautilus-query-builders.js" timestamp="1528428518067" />
       <file name="$USER_HOME$/Documents/programming/disco-travel/api/src/main/java/com/expedia/www/discotravel/domain/NeighborhoodModule.java" timestamp="1517550033608">
         <mark key="[" line="24" column="25" />
       </file>
@@ -106,6 +106,11 @@
         <mark key="[" line="84" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/programming/splunk-apps/consolidated-instances/test-environment/us-west-2/test-west-amadeusprovideradapter-dwsvc-app/default/data/ui/nav/default.xml" timestamp="1528327388190" />
+      <file name="$USER_HOME$/Documents/programming/compass-voice-questions/intents/destination-summary/card.json" timestamp="1528429605833">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/java/com/expedia/www/gaspar/flex/web/resolver/GasparResolver.java" timestamp="1517983325805">
         <mark key="[" line="53" column="8" />
         <mark key="]" line="53" column="8" />
@@ -129,6 +134,7 @@
       <file name="$USER_HOME$/Documents/programming/compass-voice-poc-ben/.gitignore" timestamp="1518059886620">
         <mark key="[" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/programming/compass-voice-questions/intents/destination-summary/destination-summary-smoketest.js" timestamp="1528428846003" />
       <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/views/modules/te-article/article.jsp" timestamp="1516676650607">
         <mark key="[" line="14" column="71" />
       </file>
@@ -211,6 +217,12 @@
       </file>
       <file name="$USER_HOME$/Documents/programming/disco-travel/core/src/test/groovy/com/expedia/www/discotravel/repository/RepositorySpec.groovy" timestamp="1515133507030">
         <mark key="[" line="242" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/compass-voice-questions/intents/destination-summary/destination-summary-intent.js" timestamp="1528430462671">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+        <mark key="^" line="33" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/programming/alexa-app-server/apps/expedia-flights/package-lock.json" timestamp="1518146071880">
         <mark key="[" line="1" column="19" />
@@ -337,14 +349,14 @@
       <jump line="53" column="51" filename="$USER_HOME$/Documents/programming/disco-travel/core/src/main/java/com/expedia/www/discotravel/repository/neighborhood/NeighborhoodAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOmNvbnNvbGlkYXRlZGAtaW5zdGFuY2VzL3Byb2QtZW52aXJvbm1lbnRzL3VzLXdlc3QtMi9wcm9kLXdlc3QtYW5zd2VyLXRyYXZlbC1xdWVzdGlvbnMvZGVmYXVsdC9hcHAuY29uZgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgCgogICAgICAgICAgICB0eXBlIDogIkJvZHlUZW1wbGF0ZTIiLAogICAgICAgICAgICAidG9rZW4iOiAic3RyaW5nIiwKICAgICAgICAgICAgImJhY2tCdXR0b24iOiAiVklTSUJMRSIoZGVmYXVsdCkgfCAiSElEREVOIiwKICAgICAgICAgICAgImJhY2tncm91bmRJbWFnZSI6ICJJbWFnZSIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJzdHJpbmciLAogICAgICAgICAgICAiaW1hZ2UiOiBJbWFnZSwKICAgICAgICAgICAgInRleHRDb250ZW50IjogVGV4dENvbnRlbnQ=</text>
       </register>
       <register name="d" type="4">
-        <text>appName</text>
+        <text>Image</text>
       </register>
       <register name="-" type="4">
-        <text>east-ewe</text>
+        <text>&quot;type&quot;</text>
       </register>
       <register name="/" type="4">
         <text>disco</text>
@@ -352,32 +364,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uZXhwZWRpYS53d3cucGxhdGZvcm08L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGxhdGZvcm0td2VibXZjLWFuYWx5dGljczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOmNvbnNvbGlkYXRlZGAtaW5zdGFuY2VzL3Byb2QtZW52aXJvbm1lbnRzL3VzLXdlc3QtMi9wcm9kLXdlc3QtYW5zd2VyLXRyYXZlbC1xdWVzdGlvbnMvZGVmYXVsdC9hcHAuY29uZgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgCgogICAgICAgICAgICB0eXBlIDogIkJvZHlUZW1wbGF0ZTIiLAogICAgICAgICAgICAidG9rZW4iOiAic3RyaW5nIiwKICAgICAgICAgICAgImJhY2tCdXR0b24iOiAiVklTSUJMRSIoZGVmYXVsdCkgfCAiSElEREVOIiwKICAgICAgICAgICAgImJhY2tncm91bmRJbWFnZSI6ICJJbWFnZSIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJzdHJpbmciLAogICAgICAgICAgICAiaW1hZ2UiOiBJbWFnZSwKICAgICAgICAgICAgInRleHRDb250ZW50IjogVGV4dENvbnRlbnQ=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Cj09PT09PT0KYXV0aG9yID0gQ29tcGFzcywgQW5zd2VyIFRyYXZlbCBRdWVzdGlvbnMgY29tcGFzc0BleHBlZGlhLmNvbQo+Pj4+Pj4+IDdhMGYwZTZjNjA1ZjUwYTU3YzQ2OWY4OTczZWQyNWIyMmU0MjAxYjU6YXdzL3Byb2QtZWFzdC1ld2UtYW5zd2VyLXRyYXZlbC1xdWVzdGlvbnMvZGVmYXVsdC9hcHAuY29uZg==</text>
+        <text encoding="base64">IHsKICAgICAgICAgICAgICBzbWFsbEltYWdlVXJsLA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtOmF3cy9wcm9kZTItZXdlLWFuc3dlci10cmF2ZWwtcXVlc3Rpb25zL2RlZmF1bHQvZGF0YS91aS9uYXYvZGVmYXVsdC54bWwK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICByZXMu</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8YSBocmVmPSJodHRwczovL3NwbHVua2V3ZS51cy13ZXN0LTIucHJvZC5tb25pdG9yaW5nLmV4cGVkaWEuY29tLyI+U2VhcmNoIFNlcnZlcjwvYT4K</text>
+      <register name="4" type="4">
+        <text>Image</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcy5kaXJlY3RpdmUoKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgIGNvbnN0IGNhcmQgPSBKU09OLnBhcnNlKGNhcmRUZW1wbGF0ZSk7</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIHZhciB3ZWF0aGVyID0gXy50ZW1wbGF0ZSgnVGhlIGN1cnJlbnQgd2VhdGhlciBjb25kaXRpb25zIGFyZSAke3dlYXRoZXJ9LCAke3RlbXB9IGFuZCB3aW5kICR7d2luZH0uJykoewogICAgICAgIHdlYXRoZXI6IGFpcnBvcnRTdGF0dXMud2VhdGhlci53ZWF0aGVyLAogICAgICAgIHRlbXA6IGFpcnBvcnRTdGF0dXMud2VhdGhlci50ZW1wLAogICAgICAgIHdpbmQ6IGFpcnBvcnRTdGF0dXMud2VhdGhlci53aW5kCiAgICB9KTsKICAgIGlmIChhaXJwb3J0U3RhdHVzLmRlbGF5ID09PSAndHJ1ZScpIHsKICAgICAgICB2YXIgdGVtcGxhdGUgPSBfLnRlbXBsYXRlKCdUaGVyZSBpcyBjdXJyZW50bHkgYSBkZWxheSBmb3IgJHthaXJwb3J0fS4gJyArCiAgICAgICAgICAgICdUaGUgYXZlcmFnZSBkZWxheSB0aW1lIGlzICR7ZGVsYXlfdGltZX0uICcgKwogICAgICAgICAgICAnRGVsYXkgaXMgYmVjYXVzZSBvZiB0aGUgZm9sbG93aW5nOiAke2RlbGF5X3JlYXNvbn0uICR7d2VhdGhlcn0nKTsKICAgICAgICByZXR1cm4gdGVtcGxhdGUoewogICAgICAgICAgICBhaXJwb3J0OiBhaXJwb3J0U3RhdHVzLm5hbWUsCiAgICAgICAgICAgIGRlbGF5X3RpbWU6IGFpcnBvcnRTdGF0dXMuc3RhdHVzLmF2Z0RlbGF5LAogICAgICAgICAgICBkZWxheV9yZWFzb246IGFpcnBvcnRTdGF0dXMuc3RhdHVzLnJlYXNvbiwKICAgICAgICAgICAgd2VhdGhlcjogd2VhdGhlcgogICAgICAgIH0pOwogICAgfSAKICAgICAgICAvL25vIGRlbGF5CiAgICAgICAgcmV0dXJuIF8udGVtcGxhdGUoJ1RoZXJlIGlzIGN1cnJlbnRseSBubyBkZWxheSBhdCAke2FpcnBvcnR9LiAke3dlYXRoZXJ9JykoewogICAgICAgICAgICBhaXJwb3J0OiBhaXJwb3J0U3RhdHVzLm5hbWUsCiAgICAgICAgICAgIHdlYXRoZXI6IHdlYXRoZXIKICAgICAgICB9KTs=</text>
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFEOmNvbnNvbGlkYXRlZGAtaW5zdGFuY2VzL3Byb2QtZW52aXJvbm1lbnRzL3VzLXdlc3QtMi9wcm9kLXdlc3QtYW5zd2VyLXRyYXZlbC1xdWVzdGlvbnMvZGVmYXVsdC9hcHAuY29uZgo=</text>
       </register>
       <register name=":" type="4">
         <text>359</text>
