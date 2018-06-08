@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/programming/ewe-link-service/src/test/java/com/expedia/com/builders/impl/DestinationExperienceLinkBuilderTest.java" timestamp="1514425932714">
@@ -51,11 +51,11 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/compass-voice-questions/app.js" timestamp="1518236310916">
-        <mark key="[" line="124" column="14" />
-        <mark key="]" line="98" column="94" />
-        <mark key="." line="98" column="94" />
-        <mark key="^" line="98" column="94" />
+      <file name="$USER_HOME$/Documents/programming/compass-voice-questions/app.js" timestamp="1528431671241">
+        <mark key="[" line="136" column="46" />
+        <mark key="]" line="136" column="46" />
+        <mark key="." line="136" column="46" />
+        <mark key="^" line="99" column="94" />
       </file>
       <file name="$USER_HOME$/Documents/programming/te-back-banner-flex-module/pom.xml" timestamp="1515046579772">
         <mark key="[" line="50" column="0" />
@@ -218,12 +218,6 @@
       <file name="$USER_HOME$/Documents/programming/disco-travel/core/src/test/groovy/com/expedia/www/discotravel/repository/RepositorySpec.groovy" timestamp="1515133507030">
         <mark key="[" line="242" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/compass-voice-questions/intents/destination-summary/destination-summary-intent.js" timestamp="1528430462671">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="13" />
-        <mark key="." line="33" column="13" />
-        <mark key="^" line="33" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/programming/alexa-app-server/apps/expedia-flights/package-lock.json" timestamp="1518146071880">
         <mark key="[" line="1" column="19" />
       </file>
@@ -350,13 +344,17 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgCgogICAgICAgICAgICB0eXBlIDogIkJvZHlUZW1wbGF0ZTIiLAogICAgICAgICAgICAidG9rZW4iOiAic3RyaW5nIiwKICAgICAgICAgICAgImJhY2tCdXR0b24iOiAiVklTSUJMRSIoZGVmYXVsdCkgfCAiSElEREVOIiwKICAgICAgICAgICAgImJhY2tncm91bmRJbWFnZSI6ICJJbWFnZSIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJzdHJpbmciLAogICAgICAgICAgICAiaW1hZ2UiOiBJbWFnZSwKICAgICAgICAgICAgInRleHRDb250ZW50IjogVGV4dENvbnRlbnQ=</text>
+        <text>,
+        // HelloWorldIntentHandler,
+        // HelpIntentHandler,
+        // CancelAndStopIntentHandler,
+        // SessionEndedRequestHandler,</text>
       </register>
       <register name="d" type="4">
         <text>Image</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;type&quot;</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>disco</text>
@@ -365,31 +363,35 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uZXhwZWRpYS53d3cucGxhdGZvcm08L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGxhdGZvcm0td2VibXZjLWFuYWx5dGljczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgCgogICAgICAgICAgICB0eXBlIDogIkJvZHlUZW1wbGF0ZTIiLAogICAgICAgICAgICAidG9rZW4iOiAic3RyaW5nIiwKICAgICAgICAgICAgImJhY2tCdXR0b24iOiAiVklTSUJMRSIoZGVmYXVsdCkgfCAiSElEREVOIiwKICAgICAgICAgICAgImJhY2tncm91bmRJbWFnZSI6ICJJbWFnZSIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJzdHJpbmciLAogICAgICAgICAgICAiaW1hZ2UiOiBJbWFnZSwKICAgICAgICAgICAgInRleHRDb250ZW50IjogVGV4dENvbnRlbnQ=</text>
+        <text>,
+        // HelloWorldIntentHandler,
+        // HelpIntentHandler,
+        // CancelAndStopIntentHandler,
+        // SessionEndedRequestHandler,</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgICBzbWFsbEltYWdlVXJsLA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgogICAgICAgICAgICB0eXBlIDogIkJvZHlUZW1wbGF0ZTIiLAogICAgICAgICAgICAidG9rZW4iOiAic3RyaW5nIiwKICAgICAgICAgICAgImJhY2tCdXR0b24iOiAiVklTSUJMRSIoZGVmYXVsdCkgfCAiSElEREVOIiwKICAgICAgICAgICAgImJhY2tncm91bmRJbWFnZSI6ICJJbWFnZSIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJzdHJpbmciLAogICAgICAgICAgICAiaW1hZ2UiOiBJbWFnZSwKICAgICAgICAgICAgInRleHRDb250ZW50IjogVGV4dENvbnRlbnQ=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICByZXMu</text>
+        <text encoding="base64">IHsKICAgICAgICAgICAgICBzbWFsbEltYWdlVXJsLA==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICByZXMu</text>
+      </register>
+      <register name="5" type="4">
         <text>Image</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIHJlcy5kaXJlY3RpdmUoKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgIGNvbnN0IGNhcmQgPSBKU09OLnBhcnNlKGNhcmRUZW1wbGF0ZSk7</text>
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
+        <text encoding="base64">CiAgICAgIGNvbnN0IGNhcmQgPSBKU09OLnBhcnNlKGNhcmRUZW1wbGF0ZSk7</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEOmNvbnNvbGlkYXRlZGAtaW5zdGFuY2VzL3Byb2QtZW52aXJvbm1lbnRzL3VzLXdlc3QtMi9wcm9kLXdlc3QtYW5zd2VyLXRyYXZlbC1xdWVzdGlvbnMvZGVmYXVsdC9hcHAuY29uZgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>359</text>
