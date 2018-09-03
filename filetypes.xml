@@ -6,6 +6,7 @@
       <mapping pattern="alexa.js" type="PLAIN_TEXT" />
       <mapping pattern="brisbane" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
