@@ -3,10 +3,9 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="ejs" type="HTML" />
+      <mapping pattern="montreal" type="PLAIN_TEXT" />
       <mapping pattern="alexa.js" type="PLAIN_TEXT" />
       <mapping pattern="brisbane" type="PLAIN_TEXT" />
-      <mapping pattern="montreal" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
