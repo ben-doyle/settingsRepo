@@ -120,10 +120,10 @@
         <mark key="]" line="240" column="0" />
         <mark key="." line="240" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/query/InProgressDestinationInsights.kt" timestamp="1543812406250">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/query/InProgressDestinationInsights.kt" timestamp="1543813533062">
+        <mark key="[" line="23" column="63" />
+        <mark key="]" line="23" column="63" />
+        <mark key="." line="23" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/programming/flex-sdk/flex-web-api/pom.xml" timestamp="1514520185768">
         <mark key="[" line="13" column="41" />
@@ -375,14 +375,14 @@
       <jump line="72" column="75" filename="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/answergenerator/PopularDestinationsAnswerGenerator.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leHBlZGlhLmFwaS5tb2RlbC5HZXRhd2F5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>optionally</text>
       </register>
       <register name="d" type="4">
         <text>Image</text>
       </register>
       <register name="-" type="4">
-        <text>destRegionType</text>
+        <text>optionally</text>
       </register>
       <register name="/" type="4">
         <text>Getaways</text>
