@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/query/DestinationInsights.kt" timestamp="1543812257116">
@@ -34,10 +34,10 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/answergenerator/PopularDestinationsAnswerGenerator.kt" timestamp="1543798415834">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/answergenerator/PopularDestinationsAnswerGenerator.kt" timestamp="1543879813266">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
       </file>
       <file name="/InProgressQuery.kt" timestamp="1543812811295" />
       <file name="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/test/kotlin/com/expedia/api/answergenerator/LodgingAnswerGeneratorTest.kt" timestamp="1543802819227" />
@@ -102,6 +102,7 @@
         <mark key="." line="94" column="0" />
         <mark key="^" line="111" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/answergenerator/FlightAnswerGenerator.kt" timestamp="1543879853481" />
       <file name="/DestinationInsights.kt" timestamp="1543812680227" />
       <file name="$USER_HOME$/Documents/programming/alexa-app-server/examples/apps/expedia-flights/index.js" timestamp="1518141668869">
         <mark key="[" line="6" column="4" />
@@ -247,36 +248,42 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>optionally</text>
+        <text>const</text>
       </register>
       <register name="d" type="4">
         <text>Image</text>
       </register>
       <register name="-" type="4">
-        <text>optionally</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>Getaways</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uZXhwZWRpYS53d3cucGxhdGZvcm08L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGxhdGZvcm0td2VibXZjLWFuYWx5dGljczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4K</text>
+      <register name="0" type="4">
+        <text>&quot;/db/select_destinationPopular.sql&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leHBlZGlhLmFwaS5tb2RlbC5HZXRhd2F5Cg==</text>
+        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgU0VMRUNUX1BPUFVMQVJfREVTVElOQVRJT05TX01PTlRIID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leHBlZGlhLmFwaS5zZXJ2aWNlLkFuc3dlclNlcnZpY2UK</text>
+        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgU0VMRUNUX1BPUFVMQVJfREVTVElOQVRJT05TID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5leHBlZGlhLmFwaS5tb2RlbC5HZXRhd2F5Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5leHBlZGlhLmFwaS5zZXJ2aWNlLkFuc3dlclNlcnZpY2UK</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5leHBlZGlhLmFwaS5tb2RlbC5HZXRhd2F5Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>var originRegionId: Long? = null,
     var month: Int? = null,
     var scoreRank: Int? = null,
@@ -284,14 +291,8 @@
     var originRegionName: String? = null,
     var originRegionType: String? = null,</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leHBlZGlhLmFwaS5hZGFwdC5hZGFwdAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leHBlZGlhLmFwaS5jbGllbnQubW9kZWwucG9zdGdyZXMuTG9jYWxHZXRhd2F5VGFibGVJdGVtCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEludmFsaWRBciAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leHBlZGlhLmFwaS5hZGFwdC5hZGFwdAo=</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
