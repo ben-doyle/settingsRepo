@@ -62,8 +62,13 @@
       <file name="$USER_HOME$/Documents/programming/disco-travel/core/src/main/java/com/expedia/www/discotravel/repository/neighborhood/montreal" timestamp="1515633958148">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/answergenerator/PopularDestinationsAnswerGenerator.kt" timestamp="1543794735331">
-        <mark key="'" line="17" column="17" />
+      <file name="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/answergenerator/PopularDestinationsAnswerGenerator.kt" timestamp="1543798415834">
+        <mark key="'" line="71" column="75" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="71" column="93" />
+        <mark key="o" line="71" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/views/modules/te-knownfor/te-knownfor.jsp" timestamp="1517455851992">
         <mark key="[" line="32" column="54" />
@@ -155,6 +160,14 @@
         <mark key="]" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/adapt/geographicFeatureAdapt.kt" timestamp="1543797619239">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/resources/db/select_localGetaways.sql" timestamp="1543798386687">
+        <mark key="[" line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/programming/alexa-poc/index.js" timestamp="1518129379834">
         <mark key="[" line="95" column="34" />
         <mark key="]" line="94" column="0" />
@@ -213,6 +226,11 @@
       <file name="$USER_HOME$/Documents/programming/te-similar-destination-flex-module/src/main/resources/application.yml" timestamp="1515624998937">
         <mark key="[" line="52" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/client/model/postgres/LocalGetawayTableItem.kt" timestamp="1543798381703">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/programming/gaspar-flex-web/src/main/webapp/WEB-INF/package.json" timestamp="1514873121352">
         <mark key="[" line="10" column="45" />
       </file>
@@ -238,9 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="20" filename="$USER_HOME$/Documents/programming/disco-travel/core/pom.xml" />
-      <jump line="104" column="52" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
-      <jump line="103" column="57" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
       <jump line="98" column="41" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
       <jump line="15" column="16" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
       <jump line="127" column="23" filename="$USER_HOME$/Documents/programming/disco-travel/pom.xml" />
@@ -338,20 +353,19 @@
       <jump line="61" column="16" filename="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/answergenerator/PopularDestinationsAnswerGenerator.kt" />
       <jump line="83" column="65" filename="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/answergenerator/PopularDestinationsAnswerGenerator.kt" />
       <jump line="17" column="17" filename="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/answergenerator/PopularDestinationsAnswerGenerator.kt" />
+      <jump line="81" column="35" filename="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/answergenerator/PopularDestinationsAnswerGenerator.kt" />
+      <jump line="62" column="94" filename="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/answergenerator/PopularDestinationsAnswerGenerator.kt" />
+      <jump line="72" column="75" filename="$USER_HOME$/Documents/programming/bex-api-travellerqueries/src/main/kotlin/com/expedia/api/answergenerator/PopularDestinationsAnswerGenerator.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,
-        // HelloWorldIntentHandler,
-        // HelpIntentHandler,
-        // CancelAndStopIntentHandler,
-        // SessionEndedRequestHandler,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text>Image</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>not a valid number&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Getaways</text>
@@ -359,36 +373,45 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uZXhwZWRpYS53d3cucGxhdGZvcm08L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+cGxhdGZvcm0td2VibXZjLWFuYWx5dGljczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>var originRegionId: Long? = null,
+    var month: Int? = null,
+    var scoreRank: Int? = null,
+    var ratioHotelBookings: Double? = 0.toDouble(),
+    var originRegionName: String? = null,
+    var originRegionType: String? = null,</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5leHBlZGlhLmFwaS5hZGFwdC5hZGFwdAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5leHBlZGlhLmFwaS5jbGllbnQubW9kZWwucG9zdGdyZXMuTG9jYWxHZXRhd2F5VGFibGVJdGVtCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEludmFsaWRBciAK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CmZ1biBMb25nLmFkYXB0KCk6IEdlb2dyYXBoaWNGZWF0dXJlIHsKICAgIAp9</text>
+      </register>
+      <register name="7" type="4">
+        <text>GeographicFeature(
+                id = it.destRegionId.toString(),
+                name = it.destRegionName.orEmpty(),
+                type = RegionType.fromGaia(it.destRegionType.orEmpty())
+            )</text>
+      </register>
+      <register name="8" type="4">
         <text>,
         // HelloWorldIntentHandler,
         // HelpIntentHandler,
         // CancelAndStopIntentHandler,
         // SessionEndedRequestHandler,</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgCgogICAgICAgICAgICB0eXBlIDogIkJvZHlUZW1wbGF0ZTIiLAogICAgICAgICAgICAidG9rZW4iOiAic3RyaW5nIiwKICAgICAgICAgICAgImJhY2tCdXR0b24iOiAiVklTSUJMRSIoZGVmYXVsdCkgfCAiSElEREVOIiwKICAgICAgICAgICAgImJhY2tncm91bmRJbWFnZSI6ICJJbWFnZSIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJzdHJpbmciLAogICAgICAgICAgICAiaW1hZ2UiOiBJbWFnZSwKICAgICAgICAgICAgInRleHRDb250ZW50IjogVGV4dENvbnRlbnQ=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgICBzbWFsbEltYWdlVXJsLA==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICByZXMu</text>
-      </register>
-      <register name="5" type="4">
-        <text>Image</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcy5kaXJlY3RpdmUoKTsK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIGNvbnN0IGNhcmQgPSBKU09OLnBhcnNlKGNhcmRUZW1wbGF0ZSk7</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgogICAgICAgICAgICB0eXBlIDogIkJvZHlUZW1wbGF0ZTIiLAogICAgICAgICAgICAidG9rZW4iOiAic3RyaW5nIiwKICAgICAgICAgICAgImJhY2tCdXR0b24iOiAiVklTSUJMRSIoZGVmYXVsdCkgfCAiSElEREVOIiwKICAgICAgICAgICAgImJhY2tncm91bmRJbWFnZSI6ICJJbWFnZSIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJzdHJpbmciLAogICAgICAgICAgICAiaW1hZ2UiOiBJbWFnZSwKICAgICAgICAgICAgInRleHRDb250ZW50IjogVGV4dENvbnRlbnQ=</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
