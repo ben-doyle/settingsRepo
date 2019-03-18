@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="ejs" type="HTML" />
       <mapping pattern="montreal" type="PLAIN_TEXT" />
       <mapping pattern="alexa.js" type="PLAIN_TEXT" />
       <mapping pattern="brisbane" type="PLAIN_TEXT" />
+      <mapping pattern="dfjflkjf" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="inf" type="PLAIN_TEXT" />
