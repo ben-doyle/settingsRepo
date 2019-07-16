@@ -4,9 +4,10 @@
     <property name="created">2019-01-23T14:26:21</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-06-27T14:44:11</property>
+    <property name="modified">2019-07-16T11:04:25</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Hack Nerd Font" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
 </scheme>
