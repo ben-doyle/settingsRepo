@@ -14,5 +14,6 @@
     <mask>*.js</mask>
     <mask>*spec.tsx</mask>
     <mask>*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
