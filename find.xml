@@ -16,9 +16,9 @@
     <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.spec.js</mask>
     <mask>*.spec.tsx</mask>
+    <mask>*.js</mask>
     <mask>*.tsx</mask>
   </component>
 </application>
