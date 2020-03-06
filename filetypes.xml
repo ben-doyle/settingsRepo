@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ejs" type="HTML" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="ReceiptInsuranceDetails.tsx" type="PLAIN_TEXT" />
       <mapping pattern="alexa.js" type="PLAIN_TEXT" />
