@@ -21,5 +21,6 @@
     <mask>*.tsx</mask>
     <mask>*.kt</mask>
     <mask>*.JS</mask>
+    <mask>*.resolver.js</mask>
   </component>
 </application>
