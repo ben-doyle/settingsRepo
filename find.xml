@@ -22,5 +22,6 @@
     <mask>*.graphql</mask>
     <mask>*.kt</mask>
     <mask>*.js</mask>
+    <mask>*resolver.js</mask>
   </component>
 </application>
