@@ -146,7 +146,7 @@
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="java.util.ArrayList" />
+        <option name="QUALIFIED_NAME" value="com.expedia.api.trips.core.model.TripDetails" />
       </Renderer>
     </CustomRenderers>
   </component>
