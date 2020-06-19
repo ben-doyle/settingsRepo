@@ -10,8 +10,8 @@
       <mapping pattern="brisbane" type="PLAIN_TEXT" />
       <mapping pattern="dfjflkjf" type="PLAIN_TEXT" />
       <mapping pattern="buildInfoSiteHtml.js" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="inf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
