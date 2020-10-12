@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.graphql" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -21,9 +22,9 @@
     <mask>*resolver.js</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
-    <mask>*.graphql</mask>
     <mask>*.md</mask>
     <mask>*.yaml</mask>
     <mask>*.kt</mask>
+    <mask>*.graphql</mask>
   </component>
 </application>
