@@ -1,17 +1,19 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="ejs" type="HTML" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="montreal" type="PLAIN_TEXT" />
       <mapping pattern="dfjflkjf" type="PLAIN_TEXT" />
-      <mapping pattern="buildInfoSiteHtml.js" type="PLAIN_TEXT" />
       <mapping pattern="ReceiptInsuranceDetails.tsx" type="PLAIN_TEXT" />
+      <mapping pattern="buildInfoSiteHtml.js" type="PLAIN_TEXT" />
       <mapping pattern="brisbane" type="PLAIN_TEXT" />
       <mapping pattern="alexa.js" type="PLAIN_TEXT" />
       <mapping ext="inf" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
