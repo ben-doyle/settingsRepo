@@ -274,9 +274,15 @@
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="JSON renderer" />
         <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="com.expedia.api.trips.core.model.TripDetails" />
+        <option name="QUALIFIED_NAME" value="java.lang.Object" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="java.lang.Object" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" expression="if (null == this || this instanceof String) return this;  new com.google.gson.GsonBuilder().serializeSpecialFloatingPointValues().serializeNulls().create().toJson(this);" language="JAVA" mode="CODE_FRAGMENT" />
+        </Renderer>
       </Renderer>
     </CustomRenderers>
   </component>
@@ -289,11 +295,6 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
         </configuration>
       </debugger>
     </debuggers>
