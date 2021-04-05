@@ -17,7 +17,6 @@
     <mask>*.JS</mask>
     <mask>*.resolver.js</mask>
     <mask>*resolver.js</mask>
-    <mask>*.java</mask>
     <mask>*.md</mask>
     <mask>*.yaml</mask>
     <mask>*.graphql</mask>
@@ -26,5 +25,6 @@
     <mask>*Test.kt</mask>
     <mask>*.json</mask>
     <mask>*.kt</mask>
+    <mask>*.java</mask>
   </component>
 </application>
